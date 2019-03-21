@@ -12,7 +12,7 @@ while ans:
     if question == "":
         sys.exit()
     
-    eelif answers == 1:
+    elif answers == 1:
         print ("It is certain.")
     
     elif answers == 2:
